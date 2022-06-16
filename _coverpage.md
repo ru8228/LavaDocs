@@ -1,14 +1,16 @@
 <!-- _coverpage.md 封面 -->
 
-![logo](_media/pic_system_logo.svg ':size=18%')
+![logo](_media/pic_system_logo.svg ':size=100%')
 
 
-> LAVA数位平台 - 测试，焕然一新！
+> 《LAVA帮助手册》
 
 - hello
 - halo
 - hihi
 
-[LAVA Team]()
-[开始使用](#欢迎使用)
+[开始使用]()
+[LAVA Team](#lava)
 
+
+![color](#34495e)
