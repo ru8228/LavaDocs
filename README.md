@@ -1,4 +1,4 @@
-# 《LAVA帮助手册v1.1》
+# **《LAVA帮助手册v1.1》**
 
 > ❤️内部资料 ！严禁外传！版权所有：Wistron LAVA Team 
 
