@@ -5,9 +5,9 @@
 
 > LAVA数位平台 - 测试，焕然一新！
 
-- XXX
-- XXX
-- XXX
+- hello
+- halo
+- hihi
 
-[知行达摩院](https://zxdmy.com)
+[LAVA Team]()
 [开始使用](#欢迎使用)
