@@ -9,6 +9,6 @@
 - 系统说明
 - Q&A
 
-[开始使用]()
-[LAVA Team](#lava)
+[开始使用](/README.md)
+[LAVA Demo]()
 
